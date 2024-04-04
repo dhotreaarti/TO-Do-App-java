@@ -1,6 +1,6 @@
 Add that dependencies in the build.gradle.kts(module:app)
 
-  implementation(libs.appcompat)
+    implementation(libs.appcompat)
   
     implementation(libs.material)
     
